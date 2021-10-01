@@ -11,11 +11,11 @@
 
 ## Mobile version
 
-![](https://github.com/yeezysmem/MedConsult/blob/main/X - 1.jpg)
+![](https://github.com/yeezysmem/MedConsult/blob/main/X-1.jpg)
 
-![](https://github.com/yeezysmem/MedConsult/blob/main/X - 2.jpg)
+![](https://github.com/yeezysmem/MedConsult/blob/main/X-2.jpg)
 
-![](https://github.com/yeezysmem/MedConsult/blob/main/X - 3.jpg)
+![](https://github.com/yeezysmem/MedConsult/blob/main/X-3.jpg)
 
-![](https://github.com/yeezysmem/MedConsult/blob/main/X - 4.jpg)
+![](https://github.com/yeezysmem/MedConsult/blob/main/X-4.jpg)
 
